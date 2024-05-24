@@ -2,7 +2,7 @@
 ## Monthly Budget Tracker using Excel 
 You can try it by using the Practice sheet above </br>
 </br>
-### Example of problems need to be answer
+### Sample Questions
 
 Total Income per month:	
 Total Expense per month:	
